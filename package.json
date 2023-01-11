@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/interface",
-  "description": "Uniswap Interface",
+  "description": "Arbswap Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
@@ -84,6 +84,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
@@ -106,6 +107,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "arb2-sdk": "^1.0.0"
+    "arb2-sdk": "^1.0.0",
+    "gh-pages": "^4.0.0"
   }
 }
