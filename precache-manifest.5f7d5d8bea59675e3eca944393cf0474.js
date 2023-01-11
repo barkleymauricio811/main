@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6881402928214950bbed6be5b5746a84",
+    "revision": "de24794c4be332cd22b52d9e97ac2fb4",
     "url": "./index.html"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/9.01156938.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "576033d55f42e5750c26",
-    "url": "./static/js/main.d4b821ac.chunk.js"
+    "revision": "fd02be4868d371140407",
+    "url": "./static/js/main.4a50854a.chunk.js"
   },
   {
     "revision": "9db978bf2fb7e92c011f",
@@ -324,12 +324,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/walletConnectIcon.8215855c.svg"
   },
   {
-    "revision": "7d6747ea4112fea1c48059cb0ff79304",
-    "url": "./static/media/wordmark.7d6747ea.svg"
+    "revision": "5e66a662da76e2083c368da38742d75b",
+    "url": "./static/media/wordmark.5e66a662.svg"
   },
   {
-    "revision": "0bc33afc7cbdb8445dc7b60a14b5ca4c",
-    "url": "./static/media/wordmark_white.0bc33afc.svg"
+    "revision": "39024946c8728240e732ce074bb28717",
+    "url": "./static/media/wordmark_white.39024946.svg"
   },
   {
     "revision": "5b8e218668bfea1d44b887bd042f6a52",
